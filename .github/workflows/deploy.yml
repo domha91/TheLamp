@@ -1,4 +1,4 @@
-name: Deploy memorial app
+name: Deploy The Lamp by VerseLight
 
 on:
   push:
